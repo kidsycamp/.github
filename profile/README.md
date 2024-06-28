@@ -1,5 +1,7 @@
 ## Welcome to Kidsy Camp
 
+![Kidsy Camp Logo](kidsy-camp-logo.png)
+
 ### هدفنا نكتشف المواهب وتنميتها
 
 <!--
