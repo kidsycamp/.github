@@ -2,4 +2,4 @@
 
 # كدزي كامب
 
-![Kidsy Camp Logo](kidsy-camp-logo.png)
+![Kidsy Camp Logo](images/kidsy-camp-logo.png)
